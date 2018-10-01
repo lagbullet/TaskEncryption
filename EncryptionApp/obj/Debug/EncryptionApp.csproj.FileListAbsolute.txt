@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.pdb
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe
+C:\Users\Alexander\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.pdb
